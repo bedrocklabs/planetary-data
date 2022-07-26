@@ -13,4 +13,4 @@
 * [Open Sentinel Map](https://visionsystemsinc.github.io/open-sentinel-map/)
 
 ### Agriculture
-[Canadian Cropland Dataset](https://github.com/bioinfoUQAM/Canadian-cropland-dataset)
+* [Canadian Cropland Dataset](https://github.com/bioinfoUQAM/Canadian-cropland-dataset)
