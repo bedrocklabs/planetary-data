@@ -20,3 +20,6 @@
 
 ### Agriculture
 * [Canadian Cropland Dataset](https://github.com/bioinfoUQAM/Canadian-cropland-dataset)
+
+### Public Databases
+* [Global Biodiversity Information Facility](https://glaroc.github.io/gbif_globe/)
