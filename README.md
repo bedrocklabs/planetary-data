@@ -15,6 +15,9 @@
 #### Sentinal
 * [Open Sentinel Map](https://visionsystemsinc.github.io/open-sentinel-map/)
 
+### Planet
+* Planet is working on something that enables the community to have better access
+
 ### Elevation
 * [List of large scale elevation data](https://github.com/DahnJ/Awesome-DEM)
 
