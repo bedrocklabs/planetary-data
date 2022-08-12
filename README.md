@@ -15,6 +15,12 @@
 #### Sentinal
 * [Open Sentinel Map](https://visionsystemsinc.github.io/open-sentinel-map/)
 
+#### Water
+* [Climate Data Store](https://cds.climate.copernicus.eu/#!/search?text=ERA5&type=dataset&keywords=((%20%22Product%20type:%20Reanalysis%22%20)%20AND%20(%20%22Spatial%20coverage:%20Global%22%20)%20AND%20(%20%22Temporal%20coverage:%20Past%22%20)%20AND%20(%20%22Provider:%20Copernicus%20C3S%22%20)))
+
+#### Rangeland
+* [Rangeland Analysis Platform](https://rangelands.app/)
+
 ### Planet
 * Planet is working on something that enables the community to have better access
 
@@ -26,3 +32,5 @@
 
 ### Public Databases
 * [Global Biodiversity Information Facility](https://glaroc.github.io/gbif_globe/)
+
+
