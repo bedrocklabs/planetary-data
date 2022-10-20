@@ -30,6 +30,9 @@
 ### Agriculture
 * [Canadian Cropland Dataset](https://github.com/bioinfoUQAM/Canadian-cropland-dataset)
 
+### Soil
+* [National Cooperative Soil Survey - SoilDB](https://ncss-tech.github.io/soilDB/)
+
 ### Public Databases
 * [Global Biodiversity Information Facility](https://glaroc.github.io/gbif_globe/)
 
