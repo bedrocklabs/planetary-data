@@ -33,4 +33,6 @@
 ### Public Databases
 * [Global Biodiversity Information Facility](https://glaroc.github.io/gbif_globe/)
 
+### Weather
+* [ERA5 Atmospheric data service](https://github.com/google-research/arco-era5)
 
