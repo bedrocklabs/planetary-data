@@ -39,6 +39,9 @@
 ### Weather
 * [ERA5 Atmospheric data service](https://github.com/google-research/arco-era5)
 
+### Landuse
+* [Open Earth Map](https://open-earth-map.org/)
+
 ## Other Data Lists
 * [Climate Change Data](https://github.com/KKulma/climate-change-data)
 
