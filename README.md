@@ -27,6 +27,9 @@
 ### Elevation
 * [List of large scale elevation data](https://github.com/DahnJ/Awesome-DEM)
 
+### Trees
+* [CTrees](https://ctrees.org/products/country-jurisdiction)
+
 ### Agriculture
 * [Canadian Cropland Dataset](https://github.com/bioinfoUQAM/Canadian-cropland-dataset)
 
