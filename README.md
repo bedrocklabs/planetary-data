@@ -21,6 +21,9 @@
 #### Rangeland
 * [Rangeland Analysis Platform](https://rangelands.app/)
 
+### Land Cover
+* [ESA World Land Cover Viewer](https://worldcover2021.esa.int/viewer)
+
 ### Planet
 * Planet is working on something that enables the community to have better access
 
