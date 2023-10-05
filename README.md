@@ -48,6 +48,9 @@
 ### Landuse
 * [Open Earth Map](https://open-earth-map.org/)
 
+### General
+* [Climate Engine](https://www.climateengine.org/)
+
 ## Other Data Lists
 * [Climate Change Data](https://github.com/KKulma/climate-change-data)
 
